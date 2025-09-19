@@ -1,4 +1,4 @@
-def write_to_file(filename, text):
+def write_to_file(filename, tet):
     with open(filename, "w") as f:
         f.write(text)
 
